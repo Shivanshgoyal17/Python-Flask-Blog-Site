@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/codingthunder",
+    "prod_uri": "mysql://root:@localhost/codingthunder",
+    "fb_url": "https://www.facebook.com/shivansh.goyal.942",
+    "tw_url": "https://twitter.com/shivansh_3000",
+    "gh_url": "https://github.com/Shivanshgoyal17",
+    "blog_name": "Coding Thunder",
+    "tag_line": "A Blog loved by Programmers",
+    "gmail-user": "your-email@gmail.com",
+    "gmail-password": "gmail-password",
+    "about_text": "Hi my name is shivansh goyal. I am a Creator and I create Programs.",
+    "no_of_posts": 2,
+    "login_image": "login-rounded-right.png",
+    "admin_user": "shivansh",
+    "admin_password": "12345",
+    "upload_location": "C:\\Users\\SHIVANI GOYAL\\3D Objects\\FLASK TUTORIALS\\static"
+  }
+
+}
